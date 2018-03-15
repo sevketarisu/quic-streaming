@@ -1,9 +1,8 @@
 //============================================================================
 // Name        : LibCurlCppConsole.cpp
 // Author      : Sevket
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Version     : 1.0
+// Description : Simple HTTP1.1 Downloader C++ Application, Ansi-style
 //============================================================================
 
 #include <iostream>
