@@ -25,7 +25,7 @@ quic_http_response_cache.cc
 quic_simple_server_bin.cc
 ```
 
-* To keep **quic_client** running when downloading segment files with same quic connection:
+* To keep **quic_client** running when downloading segment files with same QUIC connection:
 ```
 quic_simple_client_bin.cc
 ```
