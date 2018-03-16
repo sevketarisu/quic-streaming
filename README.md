@@ -42,7 +42,7 @@ Modified from original version:  https://github.com/pari685/AStream
 
 AStream is a Python based emulated video player to evaluate the perfomance of the DASH bitrate adaptation algorithms.
 
-####Command Line options
+#### Command line options
 
 ```
 dash_client.py [-h] [-m MPD] [-l] [-p PLAYBACK] [-n SEGMENT_LIMIT] [-d]
