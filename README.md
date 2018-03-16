@@ -1,6 +1,6 @@
 # quic-streaming
 
-This repository contains the modified player code, the QUIC and TCP clients for PocketVideo 2018 submission
+This repository contains the modified player code, the QUIC and the TCP clients for PacketVideo 2018 submission
 
 ## Modules
 
