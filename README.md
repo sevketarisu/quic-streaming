@@ -63,5 +63,5 @@ optional arguments:
   -js, --JUMP_SCENARIO  Jump Scenario Example: -js 40->100,150->200
 ```
 ### CsvMerger
-An utility for merging the player's log files into a single CSV file
+A utility for merging the player's log files into a single CSV file
 
