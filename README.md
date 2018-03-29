@@ -4,11 +4,10 @@ This repository contains the modified player code, the QUIC and the TCP clients 
 
 ## Modules
 
-
-* QUIC Client and Server
-* TCP Client
-* AStreamPlayerQUIC
-* CsvMerger
+* QUIC Client and Server (C++)
+* TCP Client (C++)
+* AStreamPlayerQUIC (Python)
+* CsvMerger (Java)
 
 
 ### QUIC Client and Server
