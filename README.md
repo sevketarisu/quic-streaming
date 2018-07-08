@@ -2,6 +2,8 @@
 
 This repository contains the modified player code, the QUIC and the TCP clients for Packet Video 2018 submission
 
+https://dl.acm.org/citation.cfm?id=3210426
+
 ## Modules
 
 * QUIC Client and Server (C++)
