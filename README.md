@@ -17,7 +17,7 @@ https://dl.acm.org/citation.cfm?id=3210426
 To build the **quic_server** and **quic_server**, follow the instructions at
 [Google's page](https://www.chromium.org/quic/playing-with-quic)
 
-Then replace the following files and build again
+Then replace the following files below and build again
 
 * To disable **quic_server**'s in-memory cache:
 ```
@@ -32,7 +32,7 @@ quic_simple_client_bin.cc
 ```
 
 ### TCP Client
-Use the single .cpp file to build the client
+Use only this .cpp file to build the client
 ```
 LibCurlCppConsole.cpp
 ```
@@ -64,5 +64,5 @@ optional arguments:
   -js, --JUMP_SCENARIO  Jump Scenario Example: -js 40->100,150->200
 ```
 ### CsvMerger
-A utility for merging the player's log files into a single CSV file
+A utility to merge the player's log files into a single CSV file
 
